@@ -4,7 +4,7 @@ import com.njr.TinkoffStockService.dto.FigiesDto;
 import com.njr.TinkoffStockService.dto.StocksDto;
 import com.njr.TinkoffStockService.dto.StocksPricesDto;
 import com.njr.TinkoffStockService.dto.TickersDto;
-import com.victorlevin.TinkoffStockService.dto.*;
+import com.njr.TinkoffStockService.dto.*;
 import com.njr.TinkoffStockService.model.Stock;
 import com.njr.TinkoffStockService.service.StockService;
 import lombok.RequiredArgsConstructor;

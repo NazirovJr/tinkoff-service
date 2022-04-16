@@ -2,7 +2,6 @@ package com.njr.TinkoffStockService.service;
 
 import com.njr.TinkoffStockService.dto.*;
 import com.njr.TinkoffStockService.exception.StockNotFoundException;
-import com.victorlevin.TinkoffStockService.dto.*;
 import com.njr.TinkoffStockService.model.Currency;
 import com.njr.TinkoffStockService.model.Stock;
 import lombok.RequiredArgsConstructor;
